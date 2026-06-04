@@ -23,7 +23,7 @@ print the characters and its huffmancode.
 # expt-11-huffman coding
 
 # Step 1: Get the input string
-input_string = " KAVYA "  # Example input string
+input_string = " KAVIPRIYA "  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
