@@ -69,7 +69,8 @@ for char, code in huffman_codes.items():
 ## Output:
 
 ### Print the characters and its huffmancode
-<img width="216" height="148" alt="image" src="https://github.com/user-attachments/assets/b7a59e2d-1471-4d21-9d3a-261d2086b1e0" />
+<img width="394" height="261" alt="image" src="https://github.com/user-attachments/assets/0e8ded8f-73e4-4b9d-837c-2317bcb7554f" />
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
